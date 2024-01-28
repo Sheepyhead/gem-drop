@@ -1,3 +1,6 @@
+# NOTE!!
+The following section is from the template repo used and is only relevant for this repo insofar as it describes how to use the template.
+
 # A Bevy game template
 
 Template for a Game using the awesome [Bevy engine][bevy] featuring out of the box builds for Windows, Linux, macOS, Web (Wasm), Android, and iOS.
